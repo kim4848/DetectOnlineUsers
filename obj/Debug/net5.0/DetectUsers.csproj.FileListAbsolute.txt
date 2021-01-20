@@ -1,0 +1,8 @@
+C:\repos\DetectUsers\obj\Debug\net5.0\DetectUsers.csprojAssemblyReference.cache
+C:\repos\DetectUsers\obj\Debug\net5.0\DetectUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\DetectUsers\obj\Debug\net5.0\DetectUsers.AssemblyInfoInputs.cache
+C:\repos\DetectUsers\obj\Debug\net5.0\DetectUsers.AssemblyInfo.cs
+C:\repos\DetectUsers\obj\Debug\net5.0\DetectUsers.csproj.CoreCompileInputs.cache
+C:\repos\DetectUsers\obj\Debug\net5.0\DetectUsers.MvcApplicationPartsAssemblyInfo.cache
+C:\repos\DetectUsers\obj\Debug\net5.0\DetectUsers.RazorAssemblyInfo.cache
+C:\repos\DetectUsers\obj\Debug\net5.0\DetectUsers.RazorAssemblyInfo.cs
